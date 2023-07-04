@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-redux_router_ts",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux",
+    "react-redux",
+    "router",
+    "react-router",
+    "react-router-dom"
+  ],
+  "main": "template.json",
+  "description": "A React Template with react-redux and react-router setup, using typescript",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
